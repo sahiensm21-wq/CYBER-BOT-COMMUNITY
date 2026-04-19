@@ -1,14 +1,14 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "★𝑵𝒊𝒈𝒉𝒕𝑪𝒐𝒅𝒆𝒓★",
   "version": "5.0.0",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by ★𝑵𝒊𝒈𝒉𝒕𝑪𝒐𝒅𝒆𝒓★063",
   "main": "Cyber.js",
   "engines": {
     "node": ">=20.18.1",
     "npm": ">=10.0.0 <13.0.0"
   },
   "scripts": {
-      "start": "node Ullash.js",
+      "start": "node NIGHTCODER.js",
       "login": "node login",
       "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
